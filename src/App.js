@@ -7,15 +7,15 @@ function App() {
                 <div className="sidebar-wrapper">
                     <div className="profile-container">
                         <img className="profile" src="assets/images/profile.png" alt=""/>
-                        <h1 className="name">Alan Doe</h1>
-                        <h3 className="tagline">Full Stack Developer</h3>
+                        <h1 className="name">Haresh Makwana</h1>
+                        <h3 className="tagline">Full Stack Web Developer</h3>
                     </div>
 
 
                     <div className="contact-container container-block">
                         <ul className="list-unstyled contact-list">
                             <li className="email"><i className="fas fa-envelope"></i><a
-                                href="mailto: yourname@email.com">alan.doe@website.com</a></li>
+                                href="mailto: developer.hareshmakwana@gmail.com">developer.hareshmakwana@gmail.com</a></li>
                             <li className="phone"><i className="fas fa-phone"></i><a href="tel:0123 456 789">0123 456
                                 789</a></li>
                             <li className="website"><i className="fas fa-globe"></i><a
