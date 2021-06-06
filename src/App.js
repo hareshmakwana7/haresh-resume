@@ -6,7 +6,7 @@ function App() {
             <div className="wrapper">
                 <div className="sidebar-wrapper">
                     <div className="profile-container">
-                        <img className="profile" src="assets/images/haresh.jpg" alt=""/>
+                        <img className="profile" src="assets/images/haresh.jpg" alt="" width="200"/>
                         <h1 className="name">Haresh Makwana</h1>
                         <h3 className="tagline">Full Stack Web Developer</h3>
                     </div>
