@@ -226,7 +226,7 @@ function App() {
                             </span>Skills &amp; Proficiency</h2>
                         <div className="skillset">
                             <div className="item">
-                                <h3 className="level-title">Python &amp; Django</h3>
+                                <h3 className="level-title">NodeJs</h3>
                                 <div className="progress level-bar">
                                     <div className="progress-bar theme-progress-bar" role="progressbar"
                                          style={{width: '99%'}}
@@ -246,44 +246,32 @@ function App() {
 
 
                             <div className="item">
-                                <h3 className="level-title">Angular</h3>
+                                <h3 className="level-title">HTML5 &amp; CSS</h3>
                                 <div className="progress level-bar">
                                     <div className="progress-bar theme-progress-bar" role="progressbar"
-                                         style={{ width: '98%' }}
+                                         style={{width: '98%'}}
                                          aria-valuenow="98" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                             </div>
 
-
                             <div className="item">
-                                <h3 className="level-title">HTML5 &amp; CSS</h3>
+                                <h3 className="level-title">Angular</h3>
                                 <div className="progress level-bar">
                                     <div className="progress-bar theme-progress-bar" role="progressbar"
-                                         style={{width: '95%'}}
-                                         aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                                         style={{ width: '70%' }}
+                                         aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                             </div>
 
 
                             <div className="item">
-                                <h3 className="level-title">Ruby on Rails</h3>
+                                <h3 className="level-title">React &amp; Redux</h3>
                                 <div className="progress level-bar">
                                     <div className="progress-bar theme-progress-bar" role="progressbar"
                                          style={{width: '85%'}}
                                          aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                             </div>
-
-
-                            <div className="item">
-                                <h3 className="level-title">Sketch &amp; Photoshop</h3>
-                                <div className="progress level-bar">
-                                    <div className="progress-bar theme-progress-bar" role="progressbar"
-                                         style={{width: '60%'}}
-                                         aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
-                                </div>
-                            </div>
-
 
                         </div>
                     </section>
